@@ -1,0 +1,51 @@
+.imageHomeSize{
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+ }
+ .showImage{
+    object-fit: cover; 
+    cursor: pointer;
+ }
+
+ .showCard{   
+    cursor: pointer;
+ }
+
+ .showPlace{
+     text-align: center!important;    
+ }
+
+ .topoicHeader{
+    font-family: 'Kanit'!important;
+    font-size: 25px!important;
+ }
+
+ .inputScarch{
+    font-family: 'Kanit'!important;
+    font-size: 25px!important;    
+    text-align: center!important;  
+ }
+
+ .dataWrap{
+    padding: 0.5em;
+}
+.searchPageWarp{
+    padding: 1em;
+}
+.slickWraper{
+    padding-top: 2em;
+}
+.text-block{
+    padding: 0.5em;
+}
+.searchBtn{
+    font-family: 'Kanit'!important;
+    border-radius: 0px!important;
+    margin-top: 1em!important;
+    background-color: #333!important;
+    color:white!important;
+}
+input{
+    border-radius: 0px!important;
+}

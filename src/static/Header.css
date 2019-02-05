@@ -1,0 +1,147 @@
+
+.ui.secondary.inverted.menu{
+    background-color: #333!important;
+    margin-bottom: 0px;
+    font-family: 'Kanit'!important;
+}
+.navBarMenu{
+    color: white!important;
+    font-family: 'Kanit'!important;
+    cursor: pointer;
+    /* padding-left: 2em!important; */
+    font-size: 14px;
+    padding-top: 23px!important;
+}
+.rightMenuBar{
+    color: white!important;
+    font-family: 'Kanit'!important;
+    font-size: 14px!important;
+    cursor: pointer;
+    padding-top: 8px!important;
+}
+.ui.menu:not(.vertical) .item>.input{
+    width: 40rem!important;
+}
+
+.MenuMobile{
+    background-color: #333;
+    margin-bottom: 0px;
+    height:2em!important; 
+}
+.searchBarMobile{
+    width: 75%!important;
+}
+.ui.secondary.menu{
+    margin-bottom: 0px;
+}
+.ui.segment, .ui.segments .segment{
+    margin-top: 0px!important;
+}
+.sideMenuMobile{
+    font-family: 'Kanit'!important;
+    font-size: 14px!important;
+}
+.item{
+    color: white!important;
+}
+.welcome{
+    margin-top: 3px!important;
+}
+.ui.segments:not(.horizontal)>.segment:first-child{
+    padding: 0px;
+}
+.searchBar767{
+    margin-top: 0.7em!important;
+    height: 2.5em;
+    width: 30em;
+    margin-left: 1em;
+}
+.searchBarMore767{
+    margin-top: 0.7em!important;
+    height: 2.5em;
+    width: 50em;
+    margin-left: 1em;
+}
+.ui.segments{
+    border:none!important;
+    box-shadow: none!important;
+}
+a.active.item.menuName,a.item.menuName{
+    color: black!important
+}
+.uploadAvatar{
+    background-color: blue;
+}
+.getAllPage{
+    padding-top: 1em;
+}
+.commentBtn{
+    margin-top: 1em!important;
+    background-color: #333!important;
+    border-radius: 0px!important;
+    color:white!important;
+    font-family: 'Kanit'!important;
+    margin-right: 0px!important;
+    margin-bottom: 1em!important;
+    display: inline-block;
+  }
+  label{
+    font-family: 'Kanit'!important;
+  }
+  .imageInfoCard{
+      padding: 2em;
+  }
+  .sendMsg{
+    font-family: 'Kanit'!important;
+    
+  }
+.userAlbums{
+    width: 100%;
+}
+.albumCard{
+    object-fit: cover;
+}
+.userAlbumWraper{
+    margin-top: 2em;
+}
+.notFound{
+    font-family: 'Kanit'!important;
+    text-align: left;
+    font-size: 5em!important;
+    margin: 0 auto;
+    text-align: center
+}
+.notFoundWrapper{
+    margin-top: 15%;
+}
+.albumsImage{
+    width: 350px!important
+}
+.loginForm{
+    margin-top: 2em;
+}
+.registerForm{
+    margin-top: 2em;
+}
+.uploadBtn{
+    background-color: #333!important;
+    margin:0px!important;
+    margin-bottom: 2em!important;
+
+}
+p.Color{
+    margin: 0px!important;
+    font-size: 1.3em!important;
+    padding: 0.7em!important;
+    cursor: pointer;
+}
+.uploadBtn:hover{
+    background-color: #555!important;
+}
+.btnWrapper{
+    margin-bottom: 1em!important;
+}
+.uploadBtnAdmin{
+    background-color: #555!important;
+    width: 10%;
+}

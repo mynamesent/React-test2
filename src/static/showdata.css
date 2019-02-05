@@ -1,0 +1,85 @@
+.headers{
+    font-family: 'Kanit'!important;
+    font-size: 1.5em!important;    
+    margin-bottom: 0px;
+    font-weight: bold;
+    padding:0.7em;
+}
+
+.showhotframe{   
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+    position: relative;
+    /* padding-top: 40px!important; */
+    
+}
+
+.showhotcard{   
+    object-fit: cover;
+    /* width: 27%!important;
+    height: 17%!important;     */
+}
+
+.showhotimage{    
+    width: 100%!important;
+    height: 6cm!important;
+    
+}
+img.ui.image.showhotimage{
+    background: rgba(39,62,84,0.82)!important;
+}
+
+.showhotname{
+    font-family: 'Kanit'!important;
+    font-size: 1.5em!important;
+    white-space: nowrap; 
+    width: 100%; 
+    overflow: hidden;
+    text-overflow:ellipsis;
+    font-size: 16px!important;
+    /* color: #444; */
+    color: white;
+    margin: 0px;
+}
+
+.showframe{   
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+    
+}
+
+.showcard{   
+    /* object-fit: cover; */
+    width: 17%!important;
+    height: 7%!important;    
+}
+
+.showimage{    
+    width: 10cm!important;
+    height: 6cm!important;  
+}
+
+.showname{
+    font-family: 'Kanit'!important;
+    font-size: 1.5em!important;
+    text-align: center!important;
+    
+}
+.description{
+    white-space: nowrap; 
+    width: 100%; 
+    overflow: hidden;
+    text-overflow:ellipsis;
+    font-size: 1em!important;
+    color: whitesmoke;
+    margin-bottom: 0px;
+    margin-left: 0px!important;
+}
+
+@media only screen and (min-width:1919px){
+.showhotimage{    
+    width: 100%!important;
+    height: 8cm!important;
+    
+}
+}
